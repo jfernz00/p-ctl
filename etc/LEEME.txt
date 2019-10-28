@@ -1,0 +1,28 @@
+Practica P-CTL
+
+Alumno: Javier Fernández Zamora
+
+Horas dedicadas: 10
+
+Problemas surgidos al realizar la practica:	En el primer apartado, en el ejercicio 6 como se podria hacer para solo tener un if? 
+
+Respuestas a la preguntas:
+
+Apartado 030101:
+
+	ejercicio 04:
+		Las sentencias if solo se aplican cuando la comprobacion es true.
+
+	ejercicio 09:
+		En este caso da distinto porque se estan comparando los objetos n1 y n2, y no los valores de ambos.
+	
+	ejercicio 10:
+		El método equals devuelve true cuando las variables hacen referencia al mismo objeto, por eso n1 y n2 son distintos y n1 y aux iguales para este metodo.
+
+		Cuando implementamos el método equals con getValue() para que de true cuando los valores son iguales nos sale que los 3 numeros son iguales.
+
+Apartado 030102:
+
+	ejercicio 03:
+		necesitamos poner los valores de los objetos porque no se puede hacer esa comparación sobre objetos
+
